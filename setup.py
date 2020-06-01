@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-    name="node-cleaner-ddimm",
+    name="node-cleaner",
     version="0.1",
     author="David Dimmett",
     author_email="david@daviddimmett.net",
