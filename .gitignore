@@ -1,0 +1,6 @@
+.venv
+venv
+__pycache__
+dist
+build
+node_cleaner_ddimm.egg-info
